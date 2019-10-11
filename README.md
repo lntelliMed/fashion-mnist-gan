@@ -1,5 +1,5 @@
-# Fashion Generation using GAN (Generative Adversarial Network):
+# Fashion Designs Generation using GAN (Generative Adversarial Network):
 
-Technologies used include Keras, Python, Google Colab/Jupyter Notebook..
+Technologies used include Keras/Fashion MNIST Dataset, Python, Google Colab/Jupyter Notebook..
 
 ![alt text](fashion.png "Fashion Images")
